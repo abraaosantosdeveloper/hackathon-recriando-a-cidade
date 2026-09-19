@@ -14,7 +14,9 @@ Este desafio aborda a dificuldade do Recife em monitorar preventivamente situaç
 
 ## Sobre a Equipe
 
-**Abraão Santos** - Desenvolvedor Back-End - [GitHub Profile](https://github.com/abraaosantosdeveloper)<br>
+**Abraão Santos** • *Desenvolvedor Back-End* • [GitHub Profile](https://github.com/abraaosantosdeveloper)<br>
+**Eduarda Assis** • *Desenvolvedor Back-End* • [GitHub Profile](https://github.com/Dudad771)<br>
+**Marconis Paixão** • *Desenvolvedor Full-Stack* • [GitHub Profile](https://github.com/Junior010101)<br>
 
 ## O problema
 
