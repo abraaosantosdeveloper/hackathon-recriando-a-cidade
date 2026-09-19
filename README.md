@@ -5,6 +5,11 @@
 [Introdução](#introdução)<br>
 [Sobre a Equipe](#sobre-a-equipe)<br>
 [O problema](#o-problema)<br>
+[Objetivo de Longo Prazo](#objetivo-de-longo-prazo)<br>
+[Resultados esperados](#resultados-esperados)<br>
+[Indicadores de Sucesso](#indicadores-de-sucesso)<br>
+[Riscos Associados](#riscos-associados)<br>
+[A Solução](#a-solução)<br>
 
 ## Introdução
 
@@ -32,9 +37,42 @@ priorização de equipes e limita a identificação de padrões de reincidência
 contribuindo para degradação do ambiente urbano, perda de atratividade turística e redução 
 do uso seguro e qualificado dos espaços pela população.
 
-## A solução
+## Objetivo de longo prazo
 
-### Briefing — Monitoramento Inteligente de Espaços de Lazer
+Fortalecer a capacidade do município de atuar preventivamente na manutenção da ordem 
+pública em espaços de lazer e turismo, ampliando a conservação do patrimônio urbano, a 
+eficiência operacional e a qualidade da experiência cidadã nesses territórios.
+
+## Resultados esperados
+
+– Identificação antecipada de padrões de degradação da ordem pública (recorrência 
+territorial, sazonalidade e criticidade) 
+– Priorização mais eficiente de rotinas de limpeza, conservação, fiscalização e manutenção 
+– Redução da dependência de respostas emergenciais e de ações pontuais por demanda 
+– Melhoria da preservação do patrimônio público e do uso qualarante dos espaços por 
+cidadãos e visitantes
+
+## Indicadores de Sucesso
+
+– Redução da reincidência de ocorrências de descarte irregular e depredação em pontos 
+críticos 
+– Redução do tempo entre ocorrência, registro e intervenção adequada 
+– Aumento da proporção de ações preventivas (programadas por risco e recorrência) em 
+relação às reativas 
+– Melhoria dos indicadores de conservação e satisfação dos usuários dos espaços 
+públicos
+
+## Riscos associados
+
+– Fragmentação de dados e registros entre órgãos e canais 
+– Capacidade operacional limitada para execução de ações preventivas em períodos de 
+pico 
+– Dificuldade de padronização de tipologias de ocorrência (denúncias, registros 
+operacionais, vistorias) 
+– Necessidade de comunicação clara com a população para estimular 
+corresponsabilização sem gerar abordagem punitivista indiscriminada
+
+## A solução
 
 **1. Contexto**
 
