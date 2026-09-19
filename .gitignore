@@ -1,4 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/node,flask,java
+test-results/
+playwright-report/
+*.tsbuildinfo
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,flask,java
 
 ### Flask ###
